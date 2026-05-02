@@ -8,7 +8,7 @@ Código de seguridad HASH en SHA-256 para descargar:
 <img width="1281" height="655" alt="image" src="https://github.com/user-attachments/assets/d1ce09be-0425-4029-b442-eb3baf6fda2c" />
 
 
-https://github.com/pildoraselectronicas/csvtograf/releases/tag/v1
+👉🏻 ( link descarga segura- verifica siempre su HASH): https://github.com/pildoraselectronicas/csvtograf/releases/tag/v1 👈
 
 <img width="891" height="673" alt="image" src="https://github.com/user-attachments/assets/9569a11e-1a64-430f-a22c-f82a37b22bdf" />
 Cargáis vuestro fichero en csv:
