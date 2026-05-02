@@ -4,6 +4,7 @@ Con este programa ejecutable en Windows, podéis convertir cualquier archivo con
 
 Código de seguridad HASH en SHA-256 para descargar:
 6C47358286365EAA59A6766590E7ECC922632139C4B8C96583F3B7716E15C47F
+https://github.com/pildoraselectronicas/csvtograf/releases/tag/v1
 
 <img width="891" height="673" alt="image" src="https://github.com/user-attachments/assets/9569a11e-1a64-430f-a22c-f82a37b22bdf" />
 Cargáis vuestro fichero en csv:
