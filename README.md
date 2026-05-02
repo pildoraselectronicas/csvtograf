@@ -14,6 +14,8 @@ Convierte cualquier archivo de datos csv en informes gráficos exportables en ht
 
 <img width="1795" height="804" alt="image" src="https://github.com/user-attachments/assets/43c658e8-079f-4109-85ec-02592f96d795" />
 
+Selecciona tu archivo.csv
+
 
 <img width="891" height="673" alt="image" src="https://github.com/user-attachments/assets/9569a11e-1a64-430f-a22c-f82a37b22bdf" />
 Cargáis vuestro fichero en csv:
