@@ -15,7 +15,8 @@ Convierte cualquier archivo de datos csv en informes gráficos exportables en ht
 <img width="1795" height="804" alt="image" src="https://github.com/user-attachments/assets/43c658e8-079f-4109-85ec-02592f96d795" />
 
 Selecciona tu archivo.csv, como ejemplo,  he tomado un informe en csv generado por mi nodo LoraWAN en activo Teliot1 que podéis descargar desde su propia web interactiva:
-👉🏻 https://miprochip-com.github.io/teliot1/. Para saber mas de mi proyecto Teliot-1, podeis visitar mi post en mi web 👉🏻 https://www.miprochip.com/2025/11/18/miprochip-teliot1/
+👉🏻 https://miprochip-com.github.io/teliot1/ (⚠️⚠️NOTA: Este archivo posee texto de cabecera en las dos primeras lineas, debeis borrar estas dos lineas para que funcione bien el programa y muestre correctamente las graficas).
+Para saber mas de mi proyecto Teliot-1, podeis visitar mi post en mi web 👉🏻 https://www.miprochip.com/2025/11/18/miprochip-teliot1/
 
 
 <img width="891" height="673" alt="image" src="https://github.com/user-attachments/assets/9569a11e-1a64-430f-a22c-f82a37b22bdf" />
