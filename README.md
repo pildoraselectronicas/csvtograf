@@ -1,6 +1,7 @@
 # csvtograf
 Sencillo conversor de datos de archivos.csv a gráfica exportable en html y pdf
 Con este programa ejecutable en Windows, podéis convertir cualquier archivo con datos en formato csv a informe en html o pdf.
+
 Código de seguridad HASH en SHA-256 para descargar:
 6C47358286365EAA59A6766590E7ECC922632139C4B8C96583F3B7716E15C47F
 
