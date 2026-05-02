@@ -24,7 +24,9 @@ Y podeis convertirlo a html:
 <img width="1901" height="968" alt="image" src="https://github.com/user-attachments/assets/2325b0f2-227a-4edf-be9f-b06003e7f653" />
 O bien a PDF:
 <img width="587" height="415" alt="image" src="https://github.com/user-attachments/assets/8397fd41-744d-40ab-a9e0-055c219a59d8" />
+La extensión del informe será tan larga como datos contenga el archivo .csv
 <img width="645" height="456" alt="image" src="https://github.com/user-attachments/assets/9b386014-3f97-4ead-8f9a-dc177d4f6442" />
+
 <img width="644" height="455" alt="image" src="https://github.com/user-attachments/assets/ca09b421-0fdd-4ac0-a93f-934edace2b91" />
 
 
