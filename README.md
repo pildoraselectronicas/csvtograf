@@ -31,6 +31,8 @@ La extensión del informe será tan larga como datos contenga el archivo .csv
 
 <img width="644" height="455" alt="image" src="https://github.com/user-attachments/assets/ca09b421-0fdd-4ac0-a93f-934edace2b91" />
 
+⚠️Para que este ejecutable funcione correctamente en vuestro PC bajo Windows, es necesario tengais instalado la última versión de Python con todas sus librerías⚠️.
+
 
 
 
